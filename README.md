@@ -7,7 +7,7 @@ This repository hosts the deployed interactive blog webpage that breaks down the
 ---
 
 ### 🌟 Live Demo & Webpage
-👉 **[Read the Full Showcase Article Here](https://itcodify.github.io/safestreet/)**
+👉 **[Read the Full Showcase Article Here](https://itcodify.github.io/safestreet-blog/)**
 
 ---
 
